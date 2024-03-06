@@ -6,3 +6,5 @@
 2. Salvar commits
 
    >"Vai Corinthians"
+
+- Faça alterações
