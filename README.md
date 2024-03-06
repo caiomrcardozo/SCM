@@ -8,3 +8,4 @@
    >"Vai Corinthians"
 
 - Faça alterações
+- Exportar do VS para o GIT
